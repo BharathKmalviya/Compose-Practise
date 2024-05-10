@@ -1,2 +1,2 @@
 # Compose-Practise
-In this repo, i'll be sharing all the compose practices i'll do
+In this repo, I'll be sharing all the compose practices I'll do
